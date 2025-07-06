@@ -3,6 +3,7 @@ body {
   margin: 2rem;
   background: #fdfdfd;
   color: #333;
+  font-size: 18px;
 }
 nav a {
   margin-right: 1em;
