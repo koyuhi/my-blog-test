@@ -1,0 +1,14 @@
+body {
+  font-family: sans-serif;
+  margin: 2rem;
+  background: #fdfdfd;
+  color: #333;
+}
+nav a {
+  margin-right: 1em;
+}
+footer {
+  margin-top: 2rem;
+  font-size: 0.9em;
+  color: #888;
+}
