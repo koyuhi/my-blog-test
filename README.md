@@ -1,6 +1,6 @@
 # my-blog-test
 
-'''
+```
 my-blog/
 ├── _config.yml         ← 設定ファイル（yml）
 ├── _posts/             ← ブログ記事（Markdownファイル）
@@ -13,4 +13,4 @@ my-blog/
 ├── about.md            ← 自己紹介などの固定ページ
 └── assets/
     └── css/style.css   ← スタイルシート
-'''
+```
