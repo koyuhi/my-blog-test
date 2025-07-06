@@ -1,5 +1,6 @@
 # my-blog-test
 
+Jekyll（ジェキル）
 ```
 my-blog/
 ├── _config.yml         ← 設定ファイル（yml）
